@@ -14,5 +14,11 @@
     ?>
 </ul>
 
-<a href="manga.php">Page mangas</a>
+<a href="Vagabon.php">Vagabon</a><br>
+<a href="Jojo.php">Jojo's Bizarre Adventure</a><br>
+<a href="Monster.php">Monster</a><br>
+<a href="One.php">One piece</a><br>
+<a href="berserk.php">Berserk</a><br>
+
+
 
